@@ -1,0 +1,18 @@
+2020/01/27 12:43:01 Getting all Bus information
+2020/01/27 14:23:21 listen tcp :20000: bind: address already in use
+2020/01/27 14:23:40 listen tcp :20000: bind: address already in use
+2020/01/27 14:33:46 Getting all Bus information
+2020/01/27 14:33:48 Getting all Bus information
+2020/01/27 14:33:56 visited the home page of Paytm Bus
+2020/11/03 19:33:37 visited the home page of Paytm Bus
+2020/11/03 19:34:54 Getting all Bus information
+2020/11/03 19:41:14 PUT
+2020/11/03 19:41:14  Updating bus details.....
+2020/11/03 19:41:14 Bus details has been updated....bus id: 7
+2020/11/03 19:42:03 PUT
+2020/11/03 19:42:03  Updating bus details.....
+2020/11/03 19:42:03 Bus details has been updated....bus id: 7
+2020/11/03 19:42:49 DELETE
+2020/11/03 19:42:49  Deleting bus details.....
+2020/11/03 19:42:49 Bus details has been deleted....bus id: 7
+2020/11/03 19:43:20 New bus details has been added..bus id: 7
